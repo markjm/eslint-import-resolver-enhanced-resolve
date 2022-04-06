@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markjm/eslint-import-resolver-enhanced-resolve.git"
+    "url": "git+https://github.com/markjm/eslint-import-resolver-enhanced-resolve.git"
   },
   "author": "",
   "license": "ISC",
